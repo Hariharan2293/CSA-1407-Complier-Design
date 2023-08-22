@@ -51,12 +51,5 @@ while((ch = fgetc(fp)) != EOF){
    }
   
 }
-fclose(fp);
 return 0;
 }
-int main ()
-{
-  int a, b, c ;
-  c = b + c;
-  printf ( "%d" ,c ) ;
-  }
